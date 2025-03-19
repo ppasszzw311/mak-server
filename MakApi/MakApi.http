@@ -1,0 +1,6 @@
+@MakApi_HostAddress = http://localhost:5014
+
+GET {{MakApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
